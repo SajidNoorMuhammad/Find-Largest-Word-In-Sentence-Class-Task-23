@@ -6,7 +6,7 @@ function findLargestWord(sentence) {
 
     for (let i = 0; i < words.length; i++) {
         if (words[i].length > largestWord.length) {
-            // largestWord = words[i];
+            largestWord = words[i];
         }
     }
 
