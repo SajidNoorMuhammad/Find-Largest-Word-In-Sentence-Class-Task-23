@@ -10,7 +10,7 @@ function findLargestWord(sentence) {
         }
     }
 
-//     return largestWord;
+    return largestWord;
 }
 
 // let largestWord = findLargestWord(sentence);
