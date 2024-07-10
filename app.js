@@ -14,4 +14,4 @@ function findLargestWord(sentence) {
 }
 
 let largestWord = findLargestWord(sentence);
-// console.log("The largest word is:", largestWord);
+console.log("The largest word is:", largestWord);
