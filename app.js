@@ -2,7 +2,7 @@ let sentence = prompt("Enter Text Here");
 
 function findLargestWord(sentence) {
     let words = sentence.split(' ');
-//     let largestWord = '';
+    let largestWord = '';
 
 //     for (let i = 0; i < words.length; i++) {
 //         if (words[i].length > largestWord.length) {
